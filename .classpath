@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/aspose-words-15.8.0-jdk16.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/dom4j-1.4.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/wstx-asl-3.2.0.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/aspose-cells-8.5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
